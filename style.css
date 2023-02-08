@@ -17,11 +17,11 @@ body {
 	width: 30rem;
 	height: 32rem;
 	border: 3px solid #e4bd12;
-	padding: 5px;
+	padding: 10px;
 	text-align: center;
 	font-family: 'Nunito Sans', sans-serif;
 	box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
-	border-radius: 5px;
+	border-radius: 10px;
 	position: relative;
 	z-index: 1;
 	background: inherit;
