@@ -14,7 +14,7 @@ body {
 	background-color:rgb(255, 255, 255);
 	margin: auto;
 	margin-top: 5%;
-	width: 30rem;
+	width: 32rem;
 	height: 28rem;
 	border: 3px solid #e4bd12;
 	padding: 10px;
@@ -70,6 +70,10 @@ body {
 	text-decoration: none;
 	display: inline-block;
 	font-size: 14px;
+}
+
+.video {
+	position: relative;
 }
 
 /* -- Scrollbar -- */
