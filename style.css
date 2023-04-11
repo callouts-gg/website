@@ -13,7 +13,8 @@ body {
 .main {
 	background-color:rgb(255, 255, 255);
 	margin: auto;
-	margin-top: 5%;
+	margin-top: 0%;
+	margin-bottom: 0%;
 	width: 32rem;
 	height: 28rem;
 	border: 3px solid #e4bd12;
@@ -26,7 +27,7 @@ body {
 	z-index: 1;
 	background: inherit;
 	overflow: hidden;
-	font-weight: bold; 
+	font-weight: bold;
 }
 
 .main:before {
